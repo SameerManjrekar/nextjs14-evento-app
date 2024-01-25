@@ -23,3 +23,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## About SameerEvento
 
 This is a practice Next js 14 project using Prisma ORM, PostgreSQL on Neon serverless database, TailwindCSS and also using Cache for Prisma queries
+
+## Deployment 
+
+This website is deployed on https://nextjs14-sameer-evento-app.vercel.app/
